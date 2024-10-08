@@ -1,4 +1,4 @@
-# Heyy 👋! This is Arish, a BSCS student exploring and deep-diving into data technologies. 
+# Heyy 👋! This is Arish, exploring and deep-diving into data technologies. 
 
 
 ## 🌐 Socials:
