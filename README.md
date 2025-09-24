@@ -1,4 +1,4 @@
-<h1 style="font-size:40px; font-weight: 1000;">🧠 AI Engineer | LLM Enthusiast</h1>
+<h1 style="font-size:40px; font-weight: 1000;">🧠 Software Engineer | AI/ML focused | LLM Enthusiast</h1>
 
 <p style="font-size:22px;">
 Passionate about building intelligent systems with <strong style="font-weight: 1000;">Large Language Models (LLMs)</strong> and exploring the intersection of AI, data, and creativity. From fine-tuning models to deploying AI solutions, I love turning ideas into reality.
